@@ -1,15 +1,15 @@
 {
   "main.css": "/classics/static/css/main.0fa8f250.chunk.css",
-  "main.js": "/classics/static/js/main.89d9c55d.chunk.js",
-  "main.js.map": "/classics/static/js/main.89d9c55d.chunk.js.map",
-  "static/js/1.7534de6d.chunk.js": "/classics/static/js/1.7534de6d.chunk.js",
-  "static/js/1.7534de6d.chunk.js.map": "/classics/static/js/1.7534de6d.chunk.js.map",
+  "main.js": "/classics/static/js/main.fa66277e.chunk.js",
+  "main.js.map": "/classics/static/js/main.fa66277e.chunk.js.map",
+  "static/js/1.284803b8.chunk.js": "/classics/static/js/1.284803b8.chunk.js",
+  "static/js/1.284803b8.chunk.js.map": "/classics/static/js/1.284803b8.chunk.js.map",
   "runtime~main.js": "/classics/static/js/runtime~main.d901e1a0.js",
   "runtime~main.js.map": "/classics/static/js/runtime~main.d901e1a0.js.map",
   "static/media/hermes.png": "/classics/static/media/hermes.b06b2726.png",
   "static/media/teacher.png": "/classics/static/media/teacher.1347821e.png",
   "static/css/main.0fa8f250.chunk.css.map": "/classics/static/css/main.0fa8f250.chunk.css.map",
   "index.html": "/classics/index.html",
-  "precache-manifest.1ae6b8a2f50d974b92ac1913cb6e9248.js": "/classics/precache-manifest.1ae6b8a2f50d974b92ac1913cb6e9248.js",
+  "precache-manifest.317be703bf43d9ef477c28f3d6da1363.js": "/classics/precache-manifest.317be703bf43d9ef477c28f3d6da1363.js",
   "service-worker.js": "/classics/service-worker.js"
 }
