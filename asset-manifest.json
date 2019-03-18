@@ -1,11 +1,12 @@
 {
-  "main.css": "/classics/static/css/main.43dad5fc.chunk.css",
-  "main.js": "/classics/static/js/main.aee1069d.chunk.js",
-  "main.js.map": "/classics/static/js/main.aee1069d.chunk.js.map",
-  "static/js/1.5a9c4057.chunk.js": "/classics/static/js/1.5a9c4057.chunk.js",
-  "static/js/1.5a9c4057.chunk.js.map": "/classics/static/js/1.5a9c4057.chunk.js.map",
+  "main.css": "/classics/static/css/main.5533434b.chunk.css",
+  "main.js": "/classics/static/js/main.a0ddc255.chunk.js",
+  "main.js.map": "/classics/static/js/main.a0ddc255.chunk.js.map",
+  "static/js/1.cf53de8a.chunk.js": "/classics/static/js/1.cf53de8a.chunk.js",
+  "static/js/1.cf53de8a.chunk.js.map": "/classics/static/js/1.cf53de8a.chunk.js.map",
   "runtime~main.js": "/classics/static/js/runtime~main.d901e1a0.js",
   "runtime~main.js.map": "/classics/static/js/runtime~main.d901e1a0.js.map",
+  "static/media/emoji-mission-greek.png": "/classics/static/media/emoji-mission-greek.8ce12c01.png",
   "static/media/teacher.png": "/classics/static/media/teacher.1347821e.png",
   "static/media/hermes.png": "/classics/static/media/hermes.b06b2726.png",
   "static/media/pigeon.png": "/classics/static/media/pigeon.6ecb86ae.png",
@@ -18,8 +19,8 @@
   "static/media/r-greave.png": "/classics/static/media/r-greave.d887613d.png",
   "static/media/l-greave.png": "/classics/static/media/l-greave.6d7da961.png",
   "static/media/spear.png": "/classics/static/media/spear.4c6b6f9a.png",
-  "static/css/main.43dad5fc.chunk.css.map": "/classics/static/css/main.43dad5fc.chunk.css.map",
+  "static/css/main.5533434b.chunk.css.map": "/classics/static/css/main.5533434b.chunk.css.map",
   "index.html": "/classics/index.html",
-  "precache-manifest.f527c0a08b1b9c517f98c976aa050f1d.js": "/classics/precache-manifest.f527c0a08b1b9c517f98c976aa050f1d.js",
+  "precache-manifest.e0c0399f9373bfea191762cdceecee68.js": "/classics/precache-manifest.e0c0399f9373bfea191762cdceecee68.js",
   "service-worker.js": "/classics/service-worker.js"
 }

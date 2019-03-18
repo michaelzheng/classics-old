@@ -1,19 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "aee1069d09798de8753b",
-    "url": "/classics/static/css/main.43dad5fc.chunk.css"
+    "revision": "a0ddc255b480059c2d38",
+    "url": "/classics/static/css/main.5533434b.chunk.css"
   },
   {
-    "revision": "aee1069d09798de8753b",
-    "url": "/classics/static/js/main.aee1069d.chunk.js"
+    "revision": "a0ddc255b480059c2d38",
+    "url": "/classics/static/js/main.a0ddc255.chunk.js"
   },
   {
-    "revision": "5a9c40572e1992f8be3e",
-    "url": "/classics/static/js/1.5a9c4057.chunk.js"
+    "revision": "cf53de8a4f47cf501f86",
+    "url": "/classics/static/js/1.cf53de8a.chunk.js"
   },
   {
     "revision": "d901e1a0fa297ba50b03",
     "url": "/classics/static/js/runtime~main.d901e1a0.js"
+  },
+  {
+    "revision": "8ce12c019bb92a5b2b48f6f4b5a0e93c",
+    "url": "/classics/static/media/emoji-mission-greek.8ce12c01.png"
   },
   {
     "revision": "1347821e87b32c88d5f8141474f184e6",
@@ -64,7 +68,7 @@ self.__precacheManifest = [
     "url": "/classics/static/media/spear.4c6b6f9a.png"
   },
   {
-    "revision": "b07f1a5af06b8ae7c49855d00d6141a1",
+    "revision": "53205dffa73047c7398b29a2f023b0f9",
     "url": "/classics/index.html"
   }
 ];
